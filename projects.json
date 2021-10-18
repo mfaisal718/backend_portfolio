@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Crypto X",
+        "live": "https://project-1-beige.vercel.app/",
+        "git": "https://github.com/mfaisal718/project-1",
+        "image": "https://i.imgur.com/CH2gejO.png"
+    },
+    {
+        "name": "Jordans X",
+        "live": "https://mohammed-project2.herokuapp.com/sessions/new",
+        "git": "https://github.com/mfaisal718/Mohammed-Project2",
+        "image": "https://i.imgur.com/urEUqvj.png"
+    }
+]
