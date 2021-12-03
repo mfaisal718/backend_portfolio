@@ -10,5 +10,19 @@
         "live": "https://mohammed-project2.herokuapp.com/sessions/new",
         "git": "https://github.com/mfaisal718/Mohammed-Project2",
         "image": "https://i.imgur.com/urEUqvj.png"
-    }
+    },
+    {
+        "name": "Fantasy News",
+        "live": "https://ecstatic-swanson-a25a69.netlify.app/",
+        "git": "https://github.com/mfaisal718/project3_frontend",
+        "image": "https://i.imgur.com/Z3EP4Zd.png",
+        "Description": "a simple web app that allows you to look up the latest fantasy football news based on team and post/edit your roster. Future enhancement, user auth. Build using React, MongoDB, Mongoose, Node, Bulma, Express"
+   },
+   {
+       "name": "Bud",
+       "live": "https://bud-buget.netlify.app/",
+       "git": "https://github.com/martin-alem/bud-frontend",
+       "image": "https://i.imgur.com/pWo8mnq.png",
+       "Description": "a simple web app that allows you to create your own budget in a calming simple to use environment. We worked in a team of 3 engineers to create this project. I had the role of Product Manager and Frontend help. We used Ruby on Rails backend and React frontend"
+   }
 ]
