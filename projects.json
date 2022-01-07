@@ -1,15 +1,23 @@
 [
     {
+        "name": "FinGem.io",
+        "git":"https://github.com/mfaisal718/frontend_reactnative",
+        "image": "https://i.imgur.com/fFcHa2s.jpg",
+        "Description": "An Ed Tech app built using React Native for my capstone project where I taught myself the tech in order to build an app for which I've been doing user testing and planning for with my non-profit since 2016. Going to market soon."
+    },
+    {
         "name": "Crypto X",
         "live": "https://project-1-beige.vercel.app/",
         "git": "https://github.com/mfaisal718/project-1",
-        "image": "https://i.imgur.com/CH2gejO.png"
+        "image": "https://i.imgur.com/CH2gejO.png",
+        "Description": "a simple web app that uses the coinbase api to pull up any crypto to currency exchange rate. Build using HTML, CSS, JS, JQuery"
     },
     {
         "name": "Jordans X",
         "live": "https://mohammed-project2.herokuapp.com/sessions/new",
         "git": "https://github.com/mfaisal718/Mohammed-Project2",
-        "image": "https://i.imgur.com/urEUqvj.png"
+        "image": "https://i.imgur.com/urEUqvj.png",
+        "Description": "a simple web app that allows you to post your Jordans up for sale and buy Jordans on the site, similar to Stock X. Has User auth working. Build using HTML, CSS, JavaScript, MongoDB, Mongoose, Node, Bcrypt, Dotenv, Bulma, EJS, Express"
     },
     {
         "name": "Fantasy News",
