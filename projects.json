@@ -2,7 +2,7 @@
     "name": "FinFam",
     "git": "https://github.com/Phil-Welsh/TrackPacker_Frontend",
     "live": "https://finfam.netlify.app/",
-    "image": "https://i.imgur.com/UA9mqur.jpg?1[/img]",
+    "image": "https://i.imgur.com/UA9mqur.jpg",
     "Description": "Created on a team for my first ever hackathon hosted by GA. Worked alongside a team of fellow engineers and designers on the challenge of making finances more accessible. We got the team together and decided to go with a target user group of families and the app being a budgeting app that allows users to have multiple family members (future enhancement) contribute to the budget and a progress bar that allows the families to set saving goals and visualize the progress they make. Created using Figma for design iteration, react for frontend and node.js for backend. It was a fun experience working alongside a cross functioning team and creating production level code and then presenting it within 48 hours."
 },
     {
