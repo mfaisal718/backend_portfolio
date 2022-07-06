@@ -1,4 +1,11 @@
-[ {
+[  {
+    "name": "Fingem edtech live platform",
+    "live": "https://fingem.herokuapp.com/",
+    "git": "https://github.com/arizewithjosh/fingemfinal",
+    "image": "https://imgur.com/4UNDSa4",
+    "Description": "Edtech web app built using Ruby on Rails. Led a team of designers and engineers to take data from working in person with teens to converting it into a gamified Financial Literacy educational platform in live production used and paid for by schools and nonprofits to teach disadvantaged teens"
+},
+{
     "name": "FinFam",
     "git": "https://github.com/Phil-Welsh/TrackPacker_Frontend",
     "live": "https://finfam.netlify.app/",
